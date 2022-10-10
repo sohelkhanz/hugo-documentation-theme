@@ -41,7 +41,7 @@ For example, if you delete this folder, you can remove the following from your m
   url = "courses/"
   weight = 50
 ```
-[Sohel](sohelkhan.netlify.com)
+[Sohel](docs/chapter2/syllabus)
 Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated _Courses_ menu configuration to:
 
 ```toml
