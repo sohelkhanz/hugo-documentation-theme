@@ -85,9 +85,9 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: algolia
     algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
+      app_id: 'FX7J313PF3'
+      api_key: '56003e63be03ad7645453695522e03f0'
+      index_name: 'sosa'
+      show_logo: true
