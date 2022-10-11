@@ -89,5 +89,5 @@ features:
     algolia:
       app_id: 'FX7J313PF3'
       api_key: '56003e63be03ad7645453695522e03f0'
-      index_name: 'sosa'
+      index_name: 'soso'
       show_logo: true
